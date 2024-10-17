@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309625865427",
+    "project_id": "adhimeds-vendor-90454",
+    "storage_bucket": "adhimeds-vendor-90454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309625865427:android:9f0be871c7dbd200a2c026",
+        "android_client_info": {
+          "package_name": "com.adhimedsvendor.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTp6nuzewpU2Rhyas8WXjWfeW4oDLgG7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
